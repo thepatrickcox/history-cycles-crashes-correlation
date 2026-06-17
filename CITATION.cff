@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset or its findings, please cite as below."
+title: "History, Cycles, and Crashes: A Cross-Axis Historical Pattern Study of US Market Cycles, Political Power, and Economic Stress (1865–2026)"
+abstract: >-
+  A cross-axis historical pattern study integrating US market crashes, partisan
+  political dynamics, presidential assassination attempts, asset-suppression
+  history, and human-rights inflection points, 1865–2026, with comparative data
+  for the United Kingdom, Germany, and Japan. Presents four falsifiable findings
+  with pre-committed falsification criteria.
+type: dataset
+authors:
+  - family-names: Cox
+    given-names: Patrick
+    orcid: "https://orcid.org/0009-0008-0594-1658"
+keywords:
+  - financial history
+  - market cycles
+  - political economy
+  - partisan macroeconomic outcomes
+  - asset regulation
+  - economic stress
+license: CC-BY-4.0
+date-released: 2026-06-17
+url: "https://github.com/thepatrickcox/history-cycles-crashes"

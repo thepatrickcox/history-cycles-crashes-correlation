@@ -1,0 +1,14 @@
+Stock,Ticker,Current Price,Est. Overvaluation,Original Target,Revised Target (35% Drop),P/E (Current),P/E (Historical Avg),Rationale
+Apple,AAPL,US$245.27,48%,US$163.51,US$159.43,37x,25x,"Tech-heavy, high P/E amid AI hype. Tariff hits supply chain (China exposure). 35% drop for bubble pop. Buy below $160; shutdown delays data, adds vol."
+Johnson & Johnson,JNJ,US$190.72,33.3%,US$143.04,US$123.97,24x,18x,"Defensive pharma, but policy risks (drug prices, tariffs on imports). Earnings today—watch margins. 35% drop. Buy below $125."
+Procter & Gamble,PG,US$149.69,22.7%,US$119.75,US$97.30,27x,22x,"Staples resilient, but inflation/tariffs squeeze margins (commodity costs up). 35% drop. Buy below $100."
+Coca-Cola,KO,US$67.04,23.8%,US$56.83,US$43.58,26x,21x,"Stable consumer, tariff risks on global supply. Earnings Oct 21—demand soft on sentiment dip. 35% drop. Buy below $45."
+Microsoft,MSFT,US$510.96,42.9%,US$364.97,US$297.12,34x,28x,"AI/cloud strength, but bubble + China export curbs (Azure ties). 35% drop. Buy below $300; semis drag from shutdown uncertainty."
+Chevron,CVX,US$148.90,25%,US$119.12,US$96.79,14x,12x,"Oil volatile (geopolitics, tariffs glut demand). OPEC+ cuts offset? 35% drop. Buy below $100."
+JPMorgan Chase,JPM,US$300.89,18.2%,US$240.71,US$195.58,13x,11x,Banks volatile (Zeberg’s XLF call); earnings today—loan growth vs. tariff recession fears. 35% drop. Buy below $200.
+Home Depot,HD,US$375.75,25%,US$300.60,US$244.24,25x,20x,"Housing crash link (Terry); sales -9.5% MoM, inventory glut + rates. Shutdown furloughs hit DIY. 35% drop. Buy below $245."
+Visa,V,US$343.65,20%,US$302.21,US$228.37,31x,25x,"Resilient payments, but consumer dip (UNRATE 4.3%). Tariff inflation curbs spending. 35% drop. Buy below $230."
+McDonald’s,MCD,US$297.01,25%,US$237.61,US$193.06,26x,22x,Consumer spending dips on sentiment (55 index). Value menus vs. tariff price hikes. 35% drop. Buy below $195.
+Walmart,WMT,US$101.84,25%,US$81.47,US$66.20,30x,24x,"Defensive retail, tariff hit on imports (China goods). E-comm edge, but margins thin. 35% drop. Buy below $70."
+Waste Management,WM,US$233.00,23.1%,US$186.40,US$151.45,32x,26x,"Steady waste, overvalued on growth bets. Recession-proof but debt-sensitive in shutdown. 35% drop. Buy below $155."
+NextEra Energy,NEE,US$71.87,27.8%,US$57.50,US$46.72,23x,18x,"Utilities stable, but debt fears ($37.88T total) + renewables tariff exposure. 35% drop. Buy below $50."
