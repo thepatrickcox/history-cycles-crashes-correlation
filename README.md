@@ -10,6 +10,14 @@ Markets crash on a rhythm that looks almost regular in hindsight, and a recurrin
 
 What comes out is not a theory of who causes crashes. It is a set of measurable observations about how loaded the structure is before one arrives — the kind of thing that, in the words of the work's own review, is "consistent with peer-reviewed academic findings the author had not encountered." The strongest four findings stand on public record (NBER dates, Federal Reserve data, Congressional Research Service counts) and are presented here in neutral language a skeptical reader can check.
 
+## Plain-English summary
+
+A visual, plain-English tour of this archive — the findings, the discard pile, and the graded forecast record — is maintained at:
+
+**[corkscrewwillowadvisory.com/the-archive](https://www.corkscrewwillowadvisory.com/the-archive)**
+
+This repository remains the source of truth. The site page summarizes it and is updated when the dataset or forecast grades change.
+
 ## What is in this archive
 
 | Finding | Claim (neutral) | Status |
