@@ -15,6 +15,7 @@ What comes out is not a theory of who causes crashes. It is a set of measurable 
 A visual, plain-English tour of this archive — the findings, the discard pile, and the graded forecast record — is maintained at:
 
 **[corkscrewwillowadvisory.com/history-archive]((https://corkscrewwillowadvisory.com/history-archive/))**
+**[corkscrewwillowadvisory.com/history-archive](https://www.corkscrewwillowadvisory.com/history-archive/)**
 
 This repository remains the source of truth. The site page summarizes it and is updated when the dataset or forecast grades change.
 
