@@ -93,3 +93,6 @@ The 38 original CSV files that constitute the source archive for this dataset ar
 ---
 
 *Patrick Cox — June 2026*
+
+## crash_inflation_context.csv (added 2026-07-06)
+Per-crash macro context transcribed from the working sheet "2026 or 2027 odds": inflation in the year before / average during / year after each crash; USD purchasing-power direction post-crash; pre-crash Federal Reserve injection (billions USD, nature noted). Covers 10 of the 15 workbook events (missing: 1957, 1980, 1990, 2022, 2025 — completion open). `status` column marks every row transcribed-pending-citation-verification; the `citations` numbers reference the original working sheet's source list. Purpose: the interaction variable for the oil-shock multiplier hypothesis (research_notes/oil_shock_investigation.md) and severity-vs-inflation_pre testing.

@@ -6,8 +6,8 @@
 
 **The four strongest findings.**
 
-1. **Partisan crash asymmetry** — 11 of 14 major US crashes (1907–2022) under one party; exceeds the base-rate-adjusted expectation. Independently corroborated by Bartels (*Unequal Democracy*) and Blinder & Watson (2016), which the author reached independently.
-2. **Assassination–stress clustering** — 10 of 13 documented attempts (1865–2024) fell within two years of a major crash, ~3.5× the random rate. Small sample; presented as observation, not statistical certainty.
+1. **Partisan crash asymmetry** — 12 of 15 major US crashes (1907–2025) under one party against a 49.6% time-share null (one-sided p = 0.016, `analysis/statistical_tests.py`); severity is even more concentrated (all 9 full crash-terms under one party, p = 0.0018, pending blind reclassification). Contemporaneous-attribution dependent; independently corroborated by Bartels and Blinder & Watson (2016), reached independently.
+2. **Assassination–stress clustering** — corrected July 2026: 8 of 13 documented attempts (the complete record, 1865–2024) fall within ±1 year of a crash period (p = 0.037; ±2 years p = 0.204 — window shown as the choice it is). All seven attempts since 1963 are in-window. Pre-1907 crash-table extension in progress before any ratio is re-claimed; the prior 3.5× figure is retired.
 3. **Restriction→adoption arc** — silver (1873–1893), gold (1933–1975), crypto (2017–) each followed regulatory restriction then institutional re-engagement. Crypto leg still in progress.
 4. **Inter-crash interval shortening** — intervals have shortened alongside the 1971 Bretton Woods end, 1999 Glass-Steagall repeal, and 2018 Dodd-Frank rollback.
 

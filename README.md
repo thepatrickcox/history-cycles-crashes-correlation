@@ -14,8 +14,7 @@ What comes out is not a theory of who causes crashes. It is a set of measurable 
 
 A visual, plain-English tour of this archive — the findings, the discard pile, and the graded forecast record — is maintained at:
 
-**[corkscrewwillowadvisory.com/history-archive]((https://corkscrewwillowadvisory.com/history-archive/))**
-**[corkscrewwillowadvisory.com/history-archive](https://www.corkscrewwillowadvisory.com/history-archive/)**
+**[corkscrewwillowadvisory.com/history-archive](https://corkscrewwillowadvisory.com/history-archive/)**
 
 This repository remains the source of truth. The site page summarizes it and is updated when the dataset or forecast grades change.
 
@@ -46,6 +45,9 @@ FINDINGS.md                    the four strong findings + falsification criteria
 READING_LIST.md                adjacent literature, reached independently
 analysis/METHODOLOGY.md        approach, retention rules, sample-size argument
 research_notes/                exploratory notes (clearly marked not-yet-findings)
+  candidate_observations.md    append-only hunch log, dated before judgment
+  oil_shock_investigation.md   oil-as-precondition tested; reshaped to multiplier
+  housing_deathcross_indicator_spec.md  recovered indicator spec (not yet wired)
 validation/
   2025_forecast_review.md      Oct-2025 forecast graded against May-2026 actuals
   forecast_log.md              append-only, falsifiable, scored forecast record

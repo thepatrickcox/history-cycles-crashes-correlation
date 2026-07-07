@@ -90,6 +90,17 @@ After the outcome:
 
 ---
 
+## Entry 4 — recovered and graded 2026-07-06: "Storm Watch" phase playbook (authored ~Oct 2025)
+
+| Field | Content |
+|---|---|
+| **Call** | Phase map: Q4-2025 early dip → Dec-25/Jan-26 deepening → **Q1-2026 "Full Gale" major crash** → mid-2026 bottom with Fed intervention → Q4-2026 rebound to new highs. |
+| **Observable** | A major crash beginning in Q1 2026. |
+| **Outcome** | Did not occur. The realized correction was Feb–Apr **2025** (−19%, tariff-triggered), before the playbook's window; Q1 2026 delivered no crash and the S&P sat within 2% of record highs in July 2026. |
+| **Grade** | ❌ **MISS** (sequence and timing). Recovered from a working sheet during the July 2026 consolidation and logged for completeness — the scorecard counts what was written, not just what aged well. |
+
+---
+
 ## Running scorecard
 
 | # | Date | Source | Call (short) | Result | Brier |
@@ -97,10 +108,11 @@ After the outcome:
 | 1 | 2025-10 | Historical study | 2025 crisis 45%; window + tariff trigger right, depth wrong | ⚠️ PARTIAL | n/a* |
 | 2 | 2026-05-30 | Macro suite | Gate closed; patience over prediction | ⏳ OPEN | — |
 | 3 | 2026-06-16 | Rate indicators | Rates move down | ⏳ OPEN (leaning miss) | — |
+| 4 | 2025-10 (graded 2026-07) | Storm Watch playbook | Q1-2026 major crash | ❌ MISS | n/a |
 
 \* Not Brier-scored: the −30/−40% depth figure was a historical reference point, not a committed probability on a specific depth. Window and trigger graded directionally as partial.
 
-**Calls logged:** 3 · **Scored (directional):** 1 · **Confirmed:** 0 · **Partial:** 1 · **Missed:** 0 · **Open:** 2
+**Calls logged:** 4 · **Scored (directional):** 2 · **Confirmed:** 0 · **Partial:** 1 · **Missed:** 1 · **Open:** 2
 
 > One graded call is not a track record. The number means nothing until n ≥ 10–20. The point of starting now is that in two years this table is the only honest answer to "does any of this actually work?" — more honest than any backtest, because these are real calls in real time with no hindsight.
 

@@ -41,6 +41,9 @@ Where my findings overlap with established academic literature, I say so explici
 
 ## The Findings
 
+**Verification status (July 2026).** Findings 1 and 2 now carry formal tests (`analysis/statistical_tests.py`, reproducible in seconds). Finding 1: 12 of 15 crashes under one party against a 49.6% time-share null, one-sided p = 0.016 under the pre-committed attribution rule (president in office for the majority of the decline); the pattern exists under contemporaneous attribution and vanishes under 1–2-year lagged attribution — stated openly. A stronger severity candidate (all 9 full Crash Terms under one party, p = 0.0018) is gated on blind reclassification criteria. Finding 2: corrected as noted in its section. No test here claims prediction; complete records describe what happened, not what will.
+
+
 ### Finding 1 — Partisan Asymmetry in Major US Crash Incidence
 *Original. Independently corroborated by peer-reviewed literature the author had not encountered.*
 
@@ -61,7 +64,7 @@ Republican presidents held office for approximately 64 of those years versus 51 
 
 Of thirteen documented assassination attempts on US presidents, major candidates, and former presidents from 1865 to 2024, ten occurred within two years of a major market crash event.
 
-If attempts were uniformly distributed across the 160-year span, approximately 22% would fall within a 2-year crash window by chance. The observed rate is approximately 77% — roughly 3.5 times the random base rate.
+**Verification update (July 2026):** the previously stated 10-of-13 / ~22% base rate / 3.5× figures did not reproduce from this archive's own tables and are retired. Verified against the workbook's crash periods: 8 of 13 attempts fall within ±1 year (33.8% of the calendar covered; one-sided p = 0.037) and the same 8 within ±2 years (46.2%; p = 0.204) — the window choice is a researcher degree of freedom and is shown as such. Four of the five out-of-window attempts (1865, 1881, 1901, 1912) predate the crash table's 1907 start; extending the table to the 19th-century panics (1869, 1873, 1884, 1893, 1896, 1901) from NBER dates, blind to attempt dates, is in progress and gates any re-derived ratio. Stated as fact meanwhile: every attempt since 1963 — all seven — falls within the windows. See analysis/statistical_tests.md.
 
 Notable clustering events:
 - **Ford 1975:** Two attempts within 17 days, immediately following the 1973–74 oil crisis bear market

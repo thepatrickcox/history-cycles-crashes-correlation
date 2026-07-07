@@ -1,0 +1,10 @@
+# Candidate Observations — Append-Only
+*Every "these seem to co-occur" gets logged here, dated, when noticed — before judgment. Candidates graduate via mechanism + base-rate test, or die into the discard record. Both outcomes are kept.*
+
+## 2026-07-06 — recovered from working sheets ("orphans" review)
+1. **Crash start-month seasonality.** October = 4 and January = 4 of 15 start months. Tested same day (`analysis/statistical_tests.py`): P(some month ≥4) = 0.35; P(some two months ≥8) = 0.062. Post-hoc, convention-dependent. **Status: weak; leaning discard unless a pre-committed dating convention changes the counts.**
+2. **Inflation context per crash** (from sheet "2026 or 2027 odds," now `data/sources/crash_inflation_context.csv`). Pre-crash inflation and pre-crash Fed injection per event — the interaction variable the oil investigation independently concluded was the separator (shock-into-hot-economy amplifies; shock-into-cold gets absorbed/swamped). **Status: promising; the one candidate with a named mechanism. Next: complete the 5 missing events, verify citations, then test severity vs. inflation_pre.**
+3. **Fiscal response per crash, inflation-adjusted** (from sheet "recession crash by pres"). Government/Fed spending response per crisis vs. recovery time. **Status: interesting; dollar figures in the working sheet need re-derivation from primary sources before any test.**
+4. **Housing 12M/48M death-cross composite** (spec in `research_notes/housing_deathcross_indicator_spec.md`). **Status: indicator spec sound; working-sheet rows were a modeled scenario, not actuals — wire to FRED CSUSHPINSA before any claim.**
+5. **Bankruptcy Trend Index (BTI 0–100)** — composite of filings + delinquency, 2000–2026, built in working sheets; underlying CSVs already in `data/sources/`. **Status: document the formula, then it joins the household-stress axis.**
+6. **Farmland as stress-era asset class** (from sheet "buy the farm land"). **Status: parked; practice-side research, not archive material yet.**
