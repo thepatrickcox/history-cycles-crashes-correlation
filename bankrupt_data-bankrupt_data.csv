@@ -1,0 +1,11 @@
+crash_id,crash_event,start_year,duration_years,percent_drop,inflation_pre_pct,inflation_during_avg_pct,inflation_post_pct,usd_pp_change_post,fed_injection_pre_b_usd,notes,citations,status
+C-1907,Panic of 1907,1907,1,-50,4.4,2.5,-4.4,Decrease (inflation),N/A (pre-Fed),"Bank runs, liquidity crisis; private/Treasury ~$0.1B",3,transcribed_2026-07-06_verify_citations
+C-1929,Wall Street Crash,1929,3,-89,0.0,-5.3,-5.1,Increase (deflation),~1.2 (open market ops 1929-32),"Speculation leading to Great Depression; initial ~$0.1B securities, later ~$1B in 1932","10,12",transcribed_2026-07-06_verify_citations
+C-1937,Recession of 1937-38,1937,1,-50,3.6,-2.1,3.0,Decrease,~1.5 (reserve rollback),"Policy tightening; freed reserves via requirement cuts and gold desterilization","5,84",transcribed_2026-07-06_verify_citations
+C-1962,Kennedy Slide,1962,1,-28,1.0,1.3,1.7,Decrease,None notable,"Flash crash, mild inflation; quick recovery, no major liquidity ops",20,transcribed_2026-07-06_verify_citations
+C-1968-70,1968-70 bear market,1968,2,-36,4.2,5.0,5.7,Decrease,~20 (monetary base growth 1970-72),"Inflation surge; post-recession easing via rate cuts and base expansion",53,transcribed_2026-07-06_verify_citations
+C-1973-74,Oil crisis bear market,1973,2,-48,6.2,10.0,6.5,Decrease,~30 (monetary base growth 1974-76),"Oil shock, stagflation; accommodative policy boosted M1 ~10% annually",62,transcribed_2026-07-06_verify_citations
+C-1987,Black Monday,1987,1,-34,3.6,4.4,4.1,Decrease,~19 (immediate liquidity),"Program trading, USD weakening pre-crash; discount window and open market ops","25,26",transcribed_2026-07-06_verify_citations
+C-2000,Dot-com bust,2000,3,-49,3.4,2.6,2.8,Decrease,~0.1 (balance sheet growth 2000-03),"Tech bubble; USD strengthened during; mainly rate cuts, minimal direct injection",68,transcribed_2026-07-06_verify_citations
+C-2007,Global Financial Crisis,2007,2,-57,3.8,-0.4,1.6,Decrease,"3,500 (QE1-3 total)","Housing crisis; USD rallied as safe haven; balance sheet +$3.6T","33,34",transcribed_2026-07-06_verify_citations
+C-2020,COVID crash,2020,1,-34,2.3,1.2,4.7,Decrease,"4,700 (unlimited QE)","Pandemic; brief deflation then surge; balance sheet +$4.7T peak","35,37",transcribed_2026-07-06_verify_citations
