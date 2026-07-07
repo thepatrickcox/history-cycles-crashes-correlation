@@ -1,0 +1,2 @@
+# Publication Path for Held-Back Tables
+The scapegoat/hero framing in these tables is not abandoned — it has a defined route out of quarantine: the handoff lens (research_notes/origins_and_the_handoff_lens.md). The route converts the framing into two measured columns — *conditions inherited* at each handoff and *blame assigned* (historian rankings, contemporary coverage) — pre-registered before computation, with intent questions permanently out of scope. Tables remain here until that build is complete.

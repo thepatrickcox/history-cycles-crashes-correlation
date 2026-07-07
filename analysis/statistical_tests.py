@@ -109,6 +109,23 @@ def seasonality():
     print("  Caveat: start-month depends on dating convention (peak vs panic month);")
     print("  convention must be fixed blind before this graduates from candidate.")
 
+def term_year_timing():
+    print(); print("="*70); print("CANDIDATE — Crash timing across the presidential term"); print("="*70)
+    # (crash_year, crash_month, term_start_year, term_start_month) — second terms are new terms
+    T=[(1907,10,1905,3),(1929,10,1929,3),(1937,5,1937,1),(1957,8,1957,1),(1962,5,1961,1),
+       (1970,1,1969,1),(1973,1,1973,1),(1980,11,1977,1),(1987,10,1985,1),(1990,7,1989,1),
+       (2000,3,1997,1),(2007,10,2005,1),(2020,2,2017,1),(2022,1,2021,1),(2025,1,2025,1)]
+    from collections import Counter
+    yrs=[((cy-ty)*12+(cm-tm))//12+1 for cy,cm,ty,tm in T]
+    d=Counter(yrs); dist=[d.get(i,0) for i in (1,2,3,4)]
+    print("Term-year distribution y1..y4:", dist, "(uniform expectation 3.75 each)")
+    k=max(dist); n=len(yrs)
+    print(f"Raw P(X>={k} in a chosen year | n={n}, p=0.25) = {binom_ge(n,k,0.25):.4f}")
+    rng=random.Random(11)
+    hits=sum(1 for _ in range(MC) if max(Counter(rng.randint(1,4) for _ in range(n)).values())>=k)
+    print(f"Post-hoc honest: P(some term-year >= {k}) = {hits/MC:.4f} — uniform; no timing structure.")
+    print(f"Election-year (y4) crashes: {d.get(4,0)}/{n} — below uniform expectation.")
+
 if __name__ == "__main__":
-    f1(); f2(); seasonality()
+    f1(); f2(); seasonality(); term_year_timing()
     print("\nVerified edition, July 2026. Inputs = Master_History_Workbook.xlsx.")

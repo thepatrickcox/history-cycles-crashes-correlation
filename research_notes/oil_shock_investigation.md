@@ -26,6 +26,14 @@ large, well-regarded capital positioned into oil majors (Berkshire's Occidental 
 | 2022 Russia–Ukraine | Invasion **Feb 2022**; Brent to ~$120 | +~60% | 2022 bear market began **Jan 2022** | **Mixed — bear market began weeks before the invasion**, though war deepened it. Ambiguous; kept in view. |
 | 2026 Hormuz | Strait closure **~May 2026**, >3 months | to ~$111 | *Open — no crash confirmed as of this writing* | **Undetermined — the live case.** |
 
+## A third variant — the shock that gets swamped (added 2026-07-07)
+
+The 1990/2008 counter-examples show shocks that *followed* downturns. August 2008 adds a distinct third category: the BP-operated Baku–Tbilisi–Ceyhan pipeline (~1M bbl/d, routed to bypass Russia and Hormuz) was knocked out twice in one month — a militant attack on the Turkish stretch, then the Russia–Georgia war threatening the corridor. A genuine supply disruption at a strategic chokepoint — and it vanished without a price ripple, because demand was collapsing so fast (Brent $147 → ~$30 by December) that a million barrels of lost supply didn't register. So the full taxonomy is three-way: supply shocks **lead** (1973, 1979), **amplify/follow** (1990, 2008 price peak), or are **swamped** (BTC 2008). Which one occurs appears to depend on the pre-existing structure, not the shock — the same conclusion from a third direction.
+
+## Live case update — 2026-07-07 (first out-of-sample observation)
+
+The May 2026 Hormuz closure pushed Brent to ~$111. As of the July 3 data run: WTI ~$69, Brent ~$72 — the spike has fully unwound; no crash; the S&P sits within 2% of record highs; credit spreads calm (HY OAS 2.75%). Under the retired precondition framing this would be an anomaly. Under the multiplier framing it is the expected outcome: a supply shock landing on a structure with calm credit gauges was absorbed — same family as 1990. Logged with a date because it is this investigation's first observation generated *after* the hypothesis was written. One case; noted, not claimed.
+
 ## What the record actually says — read this before believing the thesis
 
 The honest result of assembling the dates is that **the sequence holds cleanly in the 1970s and fails in 1990 and 2008.** Two independent, well-sourced analyses reach the same structural conclusion: in 1990 the recession was already dated to the month *before* Iraq invaded Kuwait, and in 2008 oil peaked in July — after the December 2007 recession onset, after Bear Stearns collapsed in March — meaning the downturn was well underway before the oil high. In both cases the oil shock **amplified** a downturn that another force had already started. That is the opposite of a precondition.
